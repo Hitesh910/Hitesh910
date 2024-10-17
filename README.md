@@ -6,6 +6,7 @@ I enjoy turning ideas into reality using Flutter and Dart.
 ## 🚀 About Me
 
 - 🔭 I’m currently working on
+- - 👀 I’m interested in Programing
 - 🌱 I’m learning more about state management and backend integration
 - 👯 I’m looking to collaborate on open-source Flutter projects
 - 💬 Ask me about Flutter, Dart, and mobile app development
