@@ -26,7 +26,7 @@ I enjoy turning ideas into reality using Flutter and Dart.
 - In this real-time updates for data changes.
 - It is designed to be intuitive, making it easy for users to navigate and utilize its functionalities.
 
-2. **[Chat App](link-to-your-chat-app-project)** : 
+2. **[Chat App](https://github.com/Hitesh910/true_chat_app)** : 
  - A real-time messaging application built with Flutter and Firebase, allowing users to communicate instantly.
   - The app supports user authentication, one-on-one and group chats, and features message notifications.
  - Its sleek UI enhances user engagement, making conversations smooth and enjoyable.
