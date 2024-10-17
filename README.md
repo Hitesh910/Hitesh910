@@ -21,7 +21,7 @@ I enjoy turning ideas into reality using Flutter and Dart.
  ## 🌟 Top Repositories
  Here are some of my projects:
 
- 1. **[Gemini App](link-to-your-gemini-app-project)** :
+ 1. **[Gemini App](https://github.com/Hitesh910/gemini_app)** :
 - A robust application utilizing a database to manage user data and interactions seamlessly.
 - In this real-time updates for data changes.
 - It is designed to be intuitive, making it easy for users to navigate and utilize its functionalities.
