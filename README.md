@@ -10,7 +10,7 @@ I enjoy turning ideas into reality using Flutter and Dart.
 - 👯 I’m looking to collaborate on open-source Flutter projects
 - 💬 Ask me about Flutter, Dart, and mobile app development
 - 📫 How to reach me: [HiteshKhatri910@gmail.com](mailto:Hiteshkhatri910@gmail.com)
-- ⚡ Fun fact: [Something interesting about you or your hobbies]
+
 
 <!---
 Hitesh910/Hitesh910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
