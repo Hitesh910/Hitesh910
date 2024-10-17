@@ -11,6 +11,13 @@ I enjoy turning ideas into reality using Flutter and Dart.
 - 💬 Ask me about Flutter, Dart, and mobile app development
 - 📫 How to reach me: [HiteshKhatri910@gmail.com](mailto:Hiteshkhatri910@gmail.com)
 
+ ## 🛠️ Technologies & Tools
+
+- **Languages:** C Language, C++, Dart,
+- **Frameworks:** Flutter, 
+- **Tools:** Git, VS Code, Android Studio, Firebase
+- **APIs:** RESTful APIs, 
+
 
 <!---
 Hitesh910/Hitesh910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
